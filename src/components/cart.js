@@ -59,7 +59,7 @@ class Cart extends Component{
 			<div className="wrap cf">
 			  <div className="heading cf">
 			    <h1>My Cart</h1>
-			    <Link to="/" className="continue">Continue Shopping</Link>
+			    <Link to="/Shopping" className="continue">Continue Shopping</Link>
 			  </div>
 			  <div className="cart">
 			    <ul className="cartWrap">
