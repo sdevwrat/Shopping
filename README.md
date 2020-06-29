@@ -10,7 +10,7 @@
 
 ## Demo
 
-[Here](https://sdevwrat.github.io/Shopping/) is a working live demo.
+[Here](https://sdevwrat.github.io/Shopping) is a working live demo.
 
 ### Home Page
 

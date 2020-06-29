@@ -10,7 +10,7 @@ const Navbar = () => {
 		    </div>
 	
 		    <ul class="nav navbar-nav navbar-right">
-		      <li><Link to="/Shopping">Shop</Link></li>
+		      <li><Link to="/">Shop</Link></li>
 		      <li><Link to="/cart"><span className="glyphicon glyphicon-shopping-cart"></span> Cart </Link></li>
 		    </ul>
 		  </div>
