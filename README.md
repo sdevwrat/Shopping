@@ -1,4 +1,4 @@
-<h1 align="center"> e-Shopping </h1> <br>
+<h1 align="left"> e-Shopping </h1> <br>
 
 <table>
 	<tr>
@@ -10,7 +10,7 @@
 
 ## Demo
 
-[Here](https://api-smarty.herokuapp.com/) is a working live demo.
+[Here](https://sdevwrat.github.io/Shopping/) is a working live demo.
 
 ### Home Page
 
@@ -18,4 +18,4 @@
 
 ### Cart
 
-![Screenshot_2020-06-29 React App(3)](https://user-images.githubusercontent.com/61136667/86010522-2717e100-ba39-11ea-99f3-2b21cab6249b.png)
+![Screenshot_2020-06-29 React App(3)](https://user-images.githubusercontent.com/61136667/86010989-c5a44200-ba39-11ea-8a2c-5d2dd0eef105.png)
