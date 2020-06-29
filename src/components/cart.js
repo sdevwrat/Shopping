@@ -68,7 +68,7 @@ class Cart extends Component{
 			  </div>
 			  
 			  <div className="promoCode"><label for="promo">Have A Promo Code?</label><input type="text" name="promo" placholder="Enter Code" />
-			  <a href="#" className="btn"></a></div>
+			  <a href="#0" className="btn"></a></div>
 			  
 			  <div className="subtotal cf">
 			    <ul >
@@ -78,7 +78,7 @@ class Cart extends Component{
 
 			      <li class="totalRow final"><span class="label">Total</span><span class="value">${total}.00</span></li>
 
-			      <li className="totalRow"><a href="#" className="btn continue">Checkout</a></li>
+			      <li className="totalRow"><a href="#0" className="btn continue">Checkout</a></li>
 			    </ul>
 			  </div>
 			</div>
