@@ -4,7 +4,6 @@
 	<tr>
 		<td>
 			This simple shopping cart prototype shows how React components and Redux can be used to build a friendly user experience in ecommerce applications.
-
 		</td>
 	</tr>
 </table>
