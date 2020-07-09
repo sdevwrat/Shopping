@@ -8,7 +8,7 @@
 	</tr>
 </table>
 
-##Demo
+### Demo
 
 [Click Here](https://sdevwrat.github.io/Shopping/) for demo.
 
